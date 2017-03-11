@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+header, footer, .content {
+    background-color: #33ff99;
+    width: 100%;
+}
+.content {
+    min-height: 95%;
+}
+header {
+    height: 150px;
+}
+footer {
+    height: 5%;
+}
+.left {
+    width:10%;
+    float:left;
+}
+.centr {
+    width:80%;
+    float:left;
+}
+.right {
+    width:10%;
+    float:left;
+}
